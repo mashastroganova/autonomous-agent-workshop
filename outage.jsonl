@@ -1,0 +1,5 @@
+{"city": "New York", "status": "outage", "message": "There is currently a mass outage in New York affecting multiple services.", "affected_services": ["Internet", "Phone", "TV"], "estimated_resolution_time": "2 days"}  
+{"city": "Chicago", "status": "healthy", "message": "All services are operating normally in Chicago.", "affected_services": [], "estimated_resolution_time": null}  
+{"city": "San Francisco", "status": "healthy", "message": "All services are operating normally in San Francisco.", "affected_services": [], "estimated_resolution_time": null}  
+{"city": "Munich", "status": "outage", "message": "There is currently a mass outage in Munich affecting Internet and Phone services.", "affected_services": ["Internet", "Phone"], "estimated_resolution_time": "1 day"}  
+{"city": "Berlin", "status": "healthy", "message": "All services are operating normally in Berlin.", "affected_services": [], "estimated_resolution_time": null}  
