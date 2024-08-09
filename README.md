@@ -1,14 +1,14 @@
-# Introduction to Autonomous Agents with Autogen: Workshop
+# Introduction to Autonomous Agents: Workshop
 
 This repository introduces and helps organizations get started with creating autonomous agents with relevant business scenarious.
 
 ## Workshop Agenda
 The objective of this workshop is to discuss realistic autonomous agent business scenarios and to learn how to leverage **autogen** for development. At the end of the workshop you will:
 
-- Understand the theory foundations behind autonomous agents
-- Understand the implications of the usage of autonomous agents and limitations
-- Have experience with using the **autogen** framework 
-- Know when and how to leverage autonomous agents for relevant business scenarious
+- Understand agentic reasoning and the core concepts behind agents
+- Understand what agents can do and how to leverage them to maximimize the impact for the business
+- Be able to create autonomous agents from scratch using **Autogen**
+- Learn relevant business scenarious for autonomous agents
 
 | Topic                          | Details                                                                                                                | Comments |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------|----------|
