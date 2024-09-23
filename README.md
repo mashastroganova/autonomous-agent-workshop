@@ -38,3 +38,7 @@ We need to create AI search in one of the regions where semantic ranking feature
 To set up CosmosDB, choose the CosmosDB for NoSQL and the `Serverless` capacity option.
 
 ![Creating CosmosDB](agents/media/cosmosdb.png)
+
+**Access management**
+
+The repository is using `ClientSecretCredential` for authentication to CosmosDB, which requires a creation of a service principal. An alternative would be using a `DefaultAzureCredential` or key-based authentication. [Here to learn more](https://pypi.org/project/azure-cosmos/).
