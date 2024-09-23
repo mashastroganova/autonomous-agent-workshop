@@ -1,5 +1,5 @@
 # Introduction to Autonomous Agents: Workshop
-<img src="media/agent_picture.png" alt="Image description" width="700">
+<img src="agents/media/agent_picture.png" alt="Image description" width="700">
 This repository introduces and helps organizations get started with creating autonomous agents with relevant business scenarious.
 
 ## Workshop Agenda
@@ -28,7 +28,7 @@ For the demos, Azure AI Search and Cosmos DB are needed. The sample data used fo
 
 We need to create AI search in one of the regions where semantic ranking feature is enabled.
 
-![Creating AI search](media/search-service.png)
+![Creating AI search](agents/media/search-service.png)
 
 `Basic` tier would be sufficient for demo purposes, however if your index size is larger, consider reviewing the [list of supported tiers](https://learn.microsoft.com/en-us/azure/search/search-sku-tier).
 
@@ -37,4 +37,4 @@ We need to create AI search in one of the regions where semantic ranking feature
 
 To set up CosmosDB, choose the CosmosDB for NoSQL and the `Serverless` capacity option.
 
-![Creating CosmosDB](media/cosmosdb.png)
+![Creating CosmosDB](agents/media/cosmosdb.png)
