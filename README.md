@@ -3,7 +3,7 @@
 
 This repository introduces and helps organizations to get started with creating autonomous agents for relevant business scenarios.
 
-## Workshop Agenda
+## Workshop agenda
 The objective of this workshop is to discuss realistic autonomous agent business scenarios and to learn how to leverage the **AutoGen** framework for development. At the end of the workshop you will:
 
 - Understand agentic reasoning and the core concepts behind agents
@@ -66,7 +66,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-**Authentication and access management**
+## Authentication and access management
 
 Edit the file `dotenv-template` to provide the credentials for your services. Leave values for optional services blank if you don't intend to use them. After editing, rename the file from `dotenv-template` to `.env`.
 
