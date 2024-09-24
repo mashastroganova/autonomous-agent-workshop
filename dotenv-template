@@ -6,10 +6,10 @@ AZURE_SEARCH_SERVICE_ENDPOINT =
 AZURE_SEARCH_KEY =
 AZURE_SEARCH_API_VERSION =
 
-
 AZURE_OAI_KEY =
 AZURE_OAI_ENDPOINT =
 
+# (optional) if you use a service principal for Azure authentication
 TENANT_ID =
 CLIENT_ID =
 CLIENT_SECRET =

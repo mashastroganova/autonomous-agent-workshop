@@ -1,0 +1,8 @@
+azure-cosmos
+azure-identity
+autogen
+azure-search-documents
+temp
+jsonlines
+typing
+azure-core
