@@ -1,4 +1,4 @@
-# Introduction to Autonomous Agents: Workshop
+# Introduction to Autonomous Agents Workshop
 <img src="agents/media/agent_picture.png" alt="Image description" width="700">
 This repository introduces and helps organizations get started with creating autonomous agents with relevant business scenarious.
 
